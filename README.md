@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muskaan712
-- I am a Master's student in Computer Science at Universität Bonn, specializing in machine learning and self-supervised learning. Currently, I serve as a Research Assistant in the Applied Machine Learning Lab, focusing on human brain image interpretation techniques. I am passionate about advancing AI-driven solutions for medical applications.
+- I am a Master's student in Computer Science at Universität Bonn, specializing in machine learning and self-supervised learning. Currently, I serve as a Research Assistant in the Applied Machine Learning Lab, focusing on computer vision in medical imaging and LLMs for Social Good. 
 Areas of Impact:
 - Previously, at ZB Med (Uniklinikum Köln), I developed FAIR-compliant ontologies for research software and a recommendation system.
 - At EISLAB, Luleå University of Technology, I worked on contrastive learning frameworks for diabetic retinopathy detection, achieving state-of-the-art results.
