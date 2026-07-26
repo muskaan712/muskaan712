@@ -3,7 +3,7 @@
 Areas of Impact:
 - Previously, at ZB Med (Uniklinikum Köln), I developed FAIR-compliant ontologies for research software and a recommendation system.
 - At EISLAB, Luleå University of Technology, I worked on contrastive learning frameworks for diabetic retinopathy detection, achieving state-of-the-art results.
-- My research has been published in conferences like ICIP and IJCNN, and I hold a patent for a real-time pothole detection system.
+- My research has been published in conferences like IJCAI, ECIR, ICIP, and IJCNN, and I hold a patent for a real-time pothole detection system.
 - 📫 You can reach me at chopramuskaan47@gmail.com
 
 <!---
